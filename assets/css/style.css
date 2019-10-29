@@ -1,7 +1,31 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-.row-table {
-    background-image:url("https://images.unsplash.com/photo-1445114193960-1a2d5b35213b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=60");
+.row-table-bmw {
+    background-image:url("https://wallpaperaccess.com/full/1124999.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row-table-benz {
+    background-image:url("http://www.teamopenoffice.org/pimages/5/56143/mercedes-benz-pictures-and-wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row-table-audi {
+    background-image:url("--blank");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row-table-porsche {
+    background-image:url("--blank");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.row-table-jaguar {
+    background-image:url("--blank");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -33,15 +57,55 @@
 }
 
 .bg-color-conferences {
-    background-color: #2333aba6;
+    background-color: #fdfdfdd4;
 }
 
 .bg-color-groups {
-    background-color: #2333aba6;
+    background-color: #fdfdfdd4;
+}
+
+.bg-color-conferences-bmw {
+    background-color: #2333abd6;
+}
+
+.bg-color-groups-bmw {
+    background-color: #2333abd6;
+}
+
+.bg-color-conferences-benz {
+    background-color: #018a51db;
+}
+
+.bg-color-groups-benz {
+    background-color: #018a51db;
+}
+
+.bg-color-conferences-audi {
+    background-color: #fdfdfdd4;
+}
+
+.bg-color-groups-audi {
+    background-color: #fdfdfdd4;
+}
+
+.bg-color-conferences-porsche {
+    background-color: #fdfdfdd4;
+}
+
+.bg-color-groups-porsche {
+    background-color: #fdfdfdd4;
+}
+
+.bg-color-conferences-jaguar {
+    background-color: #fdfdfdd4;
+}
+
+.bg-color-groups-jaguar {
+    background-color: #fdfdfdd4;
 }
 
 .ui-menu-color-home {
-    background-color: #29221cd4;
+    background-color: #fdfdfdd4;
 }
 
 .ui-menu-color-resume {
@@ -77,7 +141,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    color: #e8e3e3;
+    color: #000000;
 }
 
 
@@ -175,10 +239,52 @@ header {
     font-size: 26px;
 }
 
-.menuitem a h {
-    background-image: url(https://images.unsplash.com/photo-1560574188-6a6774965120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
-    width: 100%;
-    padding: 5px;
+.h-home {
+    margin: auto;
+    max-width: 145px;
+    line-height: 5px;
+    text-align: center;
+}
+
+.h-bmw {
+    margin: auto;
+    max-width: 120px;
+    line-height: 5px;
+    text-align: center;
+}
+
+.h-benz {
+    margin: auto;
+    max-width: 120px;
+    line-height: 5px;
+    text-align: center;
+}
+
+.h-audi {
+    margin: auto;
+    max-width: 145px;
+    line-height: 5px;
+    text-align: center;
+}
+
+.h-porsche {
+    margin: auto;
+    max-width: 145px;
+    line-height: 5px;
+    text-align: center;
+}
+
+.h-jaguar {
+    margin: auto;
+    max-width: 145px;
+    line-height: 5px;
+    text-align: center;
+}
+
+.resize_fit_center {
+    max-width:100%;
+    max-height:100%;
+    vertical-align: middle;
 }
 
 .menuitem span {
