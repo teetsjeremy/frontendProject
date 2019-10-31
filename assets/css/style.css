@@ -72,10 +72,15 @@
 
 .bg-color-conferences-bmw {
     background-color: #2333abd6;
+    color: #999999e3;
+    font-size: 20px;
 }
 
 .bg-color-groups-bmw {
     background-color: #2333abd6;
+    color: #999999e3;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .bg-color-conferences-benz {
@@ -135,6 +140,13 @@
     background-color: #999999e3;
 }
 
+.ui-bmw-interval {
+    color: #999999e3;
+}
+
+.ui-bmw-services {
+    color: #999999e3;
+}
 
 
 
