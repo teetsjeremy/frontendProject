@@ -72,47 +72,67 @@
 
 .bg-color-conferences-bmw {
     background-color: #2333abd6;
-    color: #999999e3;
+    color: #f5eeef;
     font-size: 20px;
 }
 
 .bg-color-groups-bmw {
     background-color: #2333abd6;
-    color: #999999e3;
+    color: #f5eeef;
     font-size: 20px;
     padding: 5px;
 }
 
 .bg-color-conferences-benz {
     background-color: #018a51db;
+    color: #f5eeef;
+    font-size: 20px;
 }
 
 .bg-color-groups-benz {
     background-color: #018a51db;
+    color: #f5eeef;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .bg-color-conferences-audi {
     background-color: #999999e3;
+    color: #f5eeef;
+    font-size: 20px;
 }
 
 .bg-color-groups-audi {
     background-color: #999999e3;
+    color: #f5eeef;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .bg-color-conferences-porsche {
     background-color: #ff0023c9;
+    color: #000;
+    font-size: 20px;
 }
 
 .bg-color-groups-porsche {
     background-color: #ff0023c9;
+    color: #000;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .bg-color-conferences-jaguar {
     background-color: #d9a81dd1;
+    color: #f5eeef;
+    font-size: 20px;
 }
 
 .bg-color-groups-jaguar {
     background-color: #d9a81dd1;
+    color: #f5eeef;
+    font-size: 20px;
+    padding: 5px;
 }
 
 .ui-menu-color-home {
@@ -141,15 +161,44 @@
 }
 
 .ui-bmw-interval {
-    color: #999999e3;
+    color: #f5eeef;
 }
 
 .ui-bmw-services {
-    color: #999999e3;
+    color: #f5eeef;
 }
 
+.ui-benz-interval {
+    color: #f5eeef;
+}
 
+.ui-benz-services {
+    color: #f5eeef;
+}
 
+.ui-audi-interval {
+    color: #f5eeef;
+}
+
+.ui-audi-services {
+    color: #f5eeef;
+}
+
+.ui-porsche-interval {
+    color: #000;
+}
+
+.ui-porsche-services {
+    color: #000;
+}
+
+.ui-jaguar-interval {
+    color: #f5eeef;
+}
+
+.ui-jaguar-services {
+    color: #f5eeef;
+}
 
 body {
     font-family: Roboto, sans-serif;
@@ -381,7 +430,12 @@ footer .cv-pdf i:hover {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #e67e22;
+    color: #f5eeef;
+}
+
+.three-reasons-icon-porsche {
+    font-size: 26px;
+    color: f5eeef;
 }
 
 .three-reasons-heading {
