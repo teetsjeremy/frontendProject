@@ -1,5 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+.index-photo {
+    background-image: url("https://images.unsplash.com/photo-1487754180451-c456f719a1fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.verified-badge {
+    background-image: url("https://www.pngix.com/pngfile/big/563-5634760_orange-trust-badge-transparency-and-trust-icon-hd.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+}    
 
 .row-table-bmw {
     background-image:url("https://wallpaperaccess.com/full/1124999.jpg");
